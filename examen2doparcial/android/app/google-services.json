@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745729891371",
+    "project_id": "tareamovil-3614b",
+    "storage_bucket": "tareamovil-3614b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745729891371:android:f12be444bd230bcc075e6e",
+        "android_client_info": {
+          "package_name": "com.example.examen2doparcial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPURKcdD3R31XhFeTjPz2jPnZc4_LkW10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745729891371:android:4641f27dee8a5588075e6e",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPURKcdD3R31XhFeTjPz2jPnZc4_LkW10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
